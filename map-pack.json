@@ -1,0 +1,14 @@
+{
+	"Name": "Cool map",
+	"Author": "MrAdhit",
+	"Description": "Example Map JSON",
+	"ImageUrl": "https://dummyimage.com/600x400/000/fff&text=Example",
+	"Map": "maps/custom.xml",
+	"Voxels": [
+		"maps/ground.vox",
+		"maps/van1_yellow.vox"
+	],
+	"Scripts": [
+		"maps/script.lua"
+	]
+}
