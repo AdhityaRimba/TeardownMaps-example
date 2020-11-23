@@ -2,6 +2,7 @@
 	"Name": "Cool map",
 	"Author": "MrAdhit",
 	"Description": "Example Map JSON",
+	"Version": "v1.0.0",
 	"ImageUrl": "https://dummyimage.com/600x400/000/fff&text=Example",
 	"Map": "maps/custom.xml",
 	"Voxels": [
